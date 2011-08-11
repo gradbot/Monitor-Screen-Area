@@ -1,1 +1,1 @@
-This is a small program that monitors a portion of the screen for change and plays a sound when it does.  There is a cool down timer on the audio signal and it won't keep playing if the screen is constantly changing.
+This program monitors a portion of the screen for changes and plays a sound when it does.  There is a cool down timer on the audio signal so it won't keep playing, if the screen is constantly changing.
